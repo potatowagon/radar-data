@@ -1,0 +1,20 @@
+--2018-12-19 10:35:53--  https://scihub.copernicus.eu/dhus/odata/v1/Products('2b47f487-a15a-48e9-b153-0c593b11a259')/$value
+Resolving scihub.copernicus.eu (scihub.copernicus.eu)... 131.176.236.28
+Connecting to scihub.copernicus.eu (scihub.copernicus.eu)|131.176.236.28|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+Authentication selected: Basic realm="OData service"
+Reusing existing connection to scihub.copernicus.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 890603403 (849M) [application/octet-stream]
+Saving to: ‘./morocco/S1A_IW_GRDH_1SDV_20181218T062736_20181218T062801_025076_02C469_FDE2.zip’
+
+     0K .......... .......... .......... .......... .......... 58%  959K 6m13s
+512000K .......... ........                                    80%  914K=12m19s
+
+Last-modified header invalid -- time-stamp ignored.
+2018-12-19 10:48:24 (947 KB/s) - Read error at byte 716538816/890603403 (Error in the pull function.). Retrying.
+
+--2018-12-19 10:48:25--  (try: 2)  https://scihub.copernicus.eu/dhus/odata/v1/Products('2b47f487-a15a-48e9-b153-0c593b11a259')/$value
+Connecting to scihub.copernicus.eu (scihub.copernicus.eu)|131.176.236.28|:443... failed: Network is unreachable.
+Resolving scihub.copernicus.eu (scihub.copernicus.eu)... failed: Name or service not known.
+wget: unable to resolve host address ‘scihub.copernicus.eu’

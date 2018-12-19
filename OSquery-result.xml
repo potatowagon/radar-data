@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom">
+<title>Sentinels Scientific Data Hub search results for:  platformname:Sentinel-1 AND  producttype:GRD AND  ( footprint:"Intersects(POLYGON((-6.1171767081540 35.4291543573614,-5.9989380628104 35.4291543573614,-5.9989380628104 35.5798924411137,-6.1171767081540 35.5798924411137,-6.1171767081540 35.4291543573614 )))")</title>
+<subtitle>Displaying 1 to 1 of 659 total results. Request done in 0.034 seconds.</subtitle>
+<updated>2018-12-19T03:55:33.975Z</updated>
+<author>
+<name>Sentinels Scientific Data Hub</name>
+</author>
+<id>https://scihub.copernicus.eu/dhus/search?q= platformname:Sentinel-1 AND  producttype:GRD AND  ( footprint:"Intersects(POLYGON((-6.1171767081540 35.4291543573614,-5.9989380628104 35.4291543573614,-5.9989380628104 35.5798924411137,-6.1171767081540 35.5798924411137,-6.1171767081540 35.4291543573614 )))")</id>
+<opensearch:totalResults>659</opensearch:totalResults>
+<opensearch:startIndex>1</opensearch:startIndex>
+<opensearch:itemsPerPage>1</opensearch:itemsPerPage>
+<opensearch:Query role="request" searchTerms=" platformname:Sentinel-1 AND  producttype:GRD AND  ( footprint:&quot;Intersects(POLYGON((-6.1171767081540 35.4291543573614,-5.9989380628104 35.4291543573614,-5.9989380628104 35.5798924411137,-6.1171767081540 35.5798924411137,-6.1171767081540 35.4291543573614 )))&quot;)" startPage="1"/>
+<link rel="self" type="application/atom+xml" href="https://scihub.copernicus.eu/dhus/search?q= platformname:Sentinel-1 AND  producttype:GRD AND  ( footprint:&quot;Intersects(POLYGON((-6.1171767081540 35.4291543573614,-5.9989380628104 35.4291543573614,-5.9989380628104 35.5798924411137,-6.1171767081540 35.5798924411137,-6.1171767081540 35.4291543573614 )))&quot;)&amp;start=1&amp;rows=1"/>
+<link rel="first" type="application/atom+xml" href="https://scihub.copernicus.eu/dhus/search?q= platformname:Sentinel-1 AND  producttype:GRD AND  ( footprint:&quot;Intersects(POLYGON((-6.1171767081540 35.4291543573614,-5.9989380628104 35.4291543573614,-5.9989380628104 35.5798924411137,-6.1171767081540 35.5798924411137,-6.1171767081540 35.4291543573614 )))&quot;)&amp;start=0&amp;rows=1"/>
+<link rel="next" type="application/atom+xml" href="https://scihub.copernicus.eu/dhus/search?q= platformname:Sentinel-1 AND  producttype:GRD AND  ( footprint:&quot;Intersects(POLYGON((-6.1171767081540 35.4291543573614,-5.9989380628104 35.4291543573614,-5.9989380628104 35.5798924411137,-6.1171767081540 35.5798924411137,-6.1171767081540 35.4291543573614 )))&quot;)&amp;start=2&amp;rows=1"/>
+<link rel="last" type="application/atom+xml" href="https://scihub.copernicus.eu/dhus/search?q= platformname:Sentinel-1 AND  producttype:GRD AND  ( footprint:&quot;Intersects(POLYGON((-6.1171767081540 35.4291543573614,-5.9989380628104 35.4291543573614,-5.9989380628104 35.5798924411137,-6.1171767081540 35.5798924411137,-6.1171767081540 35.4291543573614 )))&quot;)&amp;start=658&amp;rows=1"/>
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_description.xml"/>
+<entry>
+<title>S1A_IW_GRDH_1SDV_20181218T062736_20181218T062801_025076_02C469_FDE2</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('2b47f487-a15a-48e9-b153-0c593b11a259')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('2b47f487-a15a-48e9-b153-0c593b11a259')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('2b47f487-a15a-48e9-b153-0c593b11a259')/Products('Quicklook')/$value"/>
+<id>2b47f487-a15a-48e9-b153-0c593b11a259</id>
+<summary>Date: 2018-12-18T06:27:36.408Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 1.65 GB</summary>
+<date name="ingestiondate">2018-12-18T10:25:00.249Z</date>
+<date name="beginposition">2018-12-18T06:27:36.408Z</date>
+<date name="endposition">2018-12-18T06:28:01.405Z</date>
+<int name="missiondatatakeid">181353</int>
+<int name="orbitnumber">25076</int>
+<int name="lastorbitnumber">25076</int>
+<int name="relativeorbitnumber">154</int>
+<int name="lastrelativeorbitnumber">154</int>
+<int name="slicenumber">25</int>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_GRDH_1SDV_20181218T062736_20181218T062801_025076_02C469_FDE2.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;34.486965,-5.165519 34.902924,-8.008598 36.405090,-7.705101 35.991127,-4.808242 34.486965,-5.165519&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_GRDH_1SDV_20181218T062736_20181218T062801_025076_02C469_FDE2</str>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW</str>
+<str name="footprint">POLYGON ((-5.165519 34.486965,-8.008598 34.902924,-7.705101 36.405090,-4.808242 35.991127,-5.165519 34.486965))</str>
+<str name="platformidentifier">2014-016A</str>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">GRD</str>
+<str name="platformname">Sentinel-1</str>
+<str name="size">1.65 GB</str>
+<str name="status">ARCHIVED</str>
+<str name="timeliness">Fast-24h</str>
+<str name="uuid">2b47f487-a15a-48e9-b153-0c593b11a259</str>
+</entry>
+</feed>

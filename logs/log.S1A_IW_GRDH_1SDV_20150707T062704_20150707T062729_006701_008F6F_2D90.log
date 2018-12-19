@@ -1,0 +1,17 @@
+--2018-12-19 10:24:49--  https://scihub.copernicus.eu/dhus/odata/v1/Products('110f42eb-96b2-4f4f-a7e4-357335f51a84')/$value
+Resolving scihub.copernicus.eu (scihub.copernicus.eu)... 131.176.236.28
+Connecting to scihub.copernicus.eu (scihub.copernicus.eu)|131.176.236.28|:443... connected.
+The certificate's owner does not match hostname ‘scihub.copernicus.eu’
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://wifi-login2.ibrowse.com/wifi/home.jsp [following]
+--2018-12-19 10:24:54--  https://wifi-login2.ibrowse.com/wifi/home.jsp
+Resolving wifi-login2.ibrowse.com (wifi-login2.ibrowse.com)... 198.19.255.61
+Connecting to wifi-login2.ibrowse.com (wifi-login2.ibrowse.com)|198.19.255.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 835 [text/html]
+Saving to: ‘PRODUCT/S1A_IW_GRDH_1SDV_20150707T062704_20150707T062729_006701_008F6F_2D90.zip’
+
+     0K                                                       100% 30.6M=0s
+
+2018-12-19 10:24:54 (30.6 MB/s) - ‘PRODUCT/S1A_IW_GRDH_1SDV_20150707T062704_20150707T062729_006701_008F6F_2D90.zip’ saved [835/835]
+
